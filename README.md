@@ -7,5 +7,7 @@ The Sense HAT is an add-on board for Raspberry Pi, made especially for the Astro
 
 In this program, I have displayed the text "SRM IST".
 For the same, I have used two different apporaches. Both methods' code and execution can be accessed in the links provided below:
-Method 1: https://trinket.io/python/2bf1a6a55e
+Method 1: https://trinket.io/python/2bf1a6a55e  
+
+
 Method 2: https://trinket.io/python/3694e08c11
