@@ -6,8 +6,7 @@ The Sense HAT is an add-on board for Raspberry Pi, made especially for the Astro
      	In a nutshell a HAT is a rectangular board (65x56mm) that has four mounting holes in the (nicely rounded) corners that align with the mounting holes on the B+, has a 40W GPIO header and supports the special autoconfiguration system that allows automatic GPIO setup and driver setup.
 
 In this program, I have displayed the text "SRM IST".
-For the same, I have used two different apporaches. Both methods' code and execution can be accessed in the links provided below:
+For the same, I have used two different apporaches. Both methods' code and execution can be accessed in the links provided below:  
 Method 1: https://trinket.io/python/2bf1a6a55e  
-
 
 Method 2: https://trinket.io/python/3694e08c11
