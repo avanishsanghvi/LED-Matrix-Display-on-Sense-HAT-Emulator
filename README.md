@@ -8,5 +8,8 @@ In a nutshell a HAT is a rectangular board (65x56mm) that has four mounting hole
 In this program, I have displayed the text "SRM IST".
 For the same, I have used two different apporaches. Both methods' code and execution can be accessed in the links provided below:  
 Method 1: https://trinket.io/python/2bf1a6a55e  
+![The New Sense HAT Emulator - Google Chrome 2021-05-03 03-37-10 (1)](https://user-images.githubusercontent.com/75525185/116829550-ee4d1900-abc1-11eb-8ce6-26f344f5cfbc.gif)
 
-Method 2: https://trinket.io/python/3694e08c11
+
+Method 2: https://trinket.io/python/3694e08c11  
+![The New Sense HAT Emulator - Google Chrome 2021-05-03 03-38-57](https://user-images.githubusercontent.com/75525185/116829626-4c79fc00-abc2-11eb-9105-c41d4726bc72.gif)
